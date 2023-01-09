@@ -1,5 +1,5 @@
 ## Solutions to algorithm problems
 
-#### RESOURCES
+#### Resources
 - [LeetCode](https://leetcode.com/problemset/all/)
 - [Codewars](https://www.codewars.com)
