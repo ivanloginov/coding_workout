@@ -6,7 +6,7 @@
 
 #### Problems
 | Problem | Solution | Runtime (ms)|
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 6. [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [delete_and_earn.py](solutions/delete_and_earn.py) | 96 |
 | 5. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [nth_tribonacci_number.py](solutions/nth_tribonacci_number.py) | 45 |
 | 4. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [min_cost_climbing_stairs.py](solutions/min_cost_climbing_stairs.py) | 116 |
