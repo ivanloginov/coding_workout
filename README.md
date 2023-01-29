@@ -2,7 +2,7 @@
 
 #### Resources
 - [LeetCode](https://leetcode.com/problemset/all/)
-- [Codewars](https://www.codewars.com)
+- [Codewars](https://www.codewars.com/kata/)
 
 #### Problems
 | Problem | Solution | Platform |
