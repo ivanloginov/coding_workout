@@ -10,4 +10,5 @@ class Solution:
                 memo[i] = cost[i] + min(dp(i+1), dp(i+2))
             return memo[i]
 
+
         return dp(0)
