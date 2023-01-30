@@ -7,6 +7,7 @@
 #### Problems
 | Problem | Solution | Runtime (ms)|
 | --- | --- | --- |
+| 7. [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | [maximum_score_from_performing_multiplication_operations.py](solutions/maximum_score_from_performing_multiplication_operations.py) | 1638 |
 | 6. [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [delete_and_earn.py](solutions/delete_and_earn.py) | 96 |
 | 5. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [nth_tribonacci_number.py](solutions/nth_tribonacci_number.py) | 45 |
 | 4. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [min_cost_climbing_stairs.py](solutions/min_cost_climbing_stairs.py) | 116 |
