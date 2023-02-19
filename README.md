@@ -7,6 +7,7 @@
 #### Problems
 | Problem | Solution | Runtime (ms)| Memory (MB) |
 | --- | --- | --- | --- |
+| 10. [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | [minimum_difficulty...schedule.py](solutions/minimum_difficulty_of_a_job_schedule.py) | 983 | 14.6 |
 | 9. [Maximal Square](https://leetcode.com/problems/maximal-square/) | [maximal_square.py](solutions/maximal_square.py) | 879 | 21.6 |
 | 8. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [longest_common_subsequence.py](solutions/longest_common_subsequence.py) | 2977 | 29.5 |
 | 7. [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | [maximum_score...operations.py](solutions/maximum_score_from_performing_multiplication_operations.py) | 1638 | 51.6 |
