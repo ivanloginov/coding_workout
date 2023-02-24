@@ -7,6 +7,7 @@
 #### Problems
 | Problem | Solution | Runtime (ms)| Memory (MB) |
 | --- | --- | --- | --- |
+| 12. [Word Break](https://leetcode.com/problems/word-break/description/) | [word_break.py](solutions/word_break.py) | 49 | 14.1 |
 | 11. [Coin Change](https://leetcode.com/problems/coin-change/description/) | [coin_change.py](solutions/coin_change.py) | 2412 | 50.6 |
 | 10. [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/) | [minimum_difficulty...schedule.py](solutions/minimum_difficulty_of_a_job_schedule.py) | 983 | 14.6 |
 | 9. [Maximal Square](https://leetcode.com/problems/maximal-square/description/) | [maximal_square.py](solutions/maximal_square.py) | 879 | 21.6 |
