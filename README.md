@@ -7,6 +7,7 @@
 #### Problems
 | Problem | Solution | Runtime (ms)| Memory (MB) |
 | --- | --- | --- | --- |
+| 19. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [maximum_subarray.py](solutions/maximum_subarray.py) | 807 | 28.5 |
 | 18. [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [decode_ways.py](solutions/decode_ways.py) | 33 | 13.9 |
 | 17. [Coin Change II](https://leetcode.com/problems/coin-change-ii/description/) | [coin_change_2.py](solutions/coin_change_2.py) | 151 | 14 |
 | 16. [Paint Fence](https://leetcode.com/problems/paint-fence/description/) | [paint_fence.py](solutions/paint_fence.py) | 27 | 13.9 |
