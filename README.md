@@ -7,6 +7,7 @@
 #### Problems
 | Problem | Solution | Runtime (ms)| Memory (MB) |
 | --- | --- | --- | --- |
+| 20. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [best_time...stock.py](solutions/best_time_to_buy_and_sell_stock.py) | 1159 | 24.9 |
 | 19. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [maximum_subarray.py](solutions/maximum_subarray.py) | 807 | 28.5 |
 | 18. [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [decode_ways.py](solutions/decode_ways.py) | 33 | 13.9 |
 | 17. [Coin Change II](https://leetcode.com/problems/coin-change-ii/description/) | [coin_change_2.py](solutions/coin_change_2.py) | 151 | 14 |
