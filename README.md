@@ -7,6 +7,7 @@
 #### Problems
 | Problem | Solution | Runtime (ms)| Memory (MB) |
 | --- | --- | --- | --- |
+| 24. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [minimum_path_sum.py](solutions/minimum_path_sum.py) | 103 | 18 |
 | 23. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [unique_paths_2.py](solutions/unique_paths_2.py) | 50 | 16.3 |
 | 22. [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [unique_paths.py](solutions/unique_paths.py) | 32 | 13.9 |
 | 21. [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) | [maximum_sum_circular_subarray.py](solutions/maximum_sum_circular_subarray.py) | 570 | 19.1 |
