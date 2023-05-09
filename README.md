@@ -7,6 +7,7 @@
 #### Problems
 | Problem | Solution | Runtime (ms)| Memory (MB) |
 | --- | --- | --- | --- |
+| 25. [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/) | [minimum_falling_path_sum.py](solutions/minimum_falling_path_sum.py) | 140 | 17 |
 | 24. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [minimum_path_sum.py](solutions/minimum_path_sum.py) | 103 | 18 |
 | 23. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [unique_paths_2.py](solutions/unique_paths_2.py) | 50 | 16.3 |
 | 22. [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [unique_paths.py](solutions/unique_paths.py) | 32 | 13.9 |
