@@ -16,7 +16,7 @@ class Solution:
                 
         return dp[0][1]
 
-        # BOTTOM-UP
+        # TOP-DOWN
         # memo = {}
         # for i in range(n):
         #     memo[i] = {}
