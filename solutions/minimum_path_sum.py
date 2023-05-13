@@ -3,7 +3,7 @@ class Solution:
         m = len(grid)
         n = len(grid[0])
 
-        # BOTTOM-UP:
+        # TABULATION:
         dp = [[float('inf')]*(n+1) for _ in range(m+1)]
         dp[m-1][n] = 0
         result = dp[0][0]
@@ -14,7 +14,7 @@ class Solution:
 
         return dp[0][0]
 
-        # TOP-DOWN:
+        # MEMOIZATION:
         # memo = {}
         # for i in range(m):
         #     memo[i] = {}

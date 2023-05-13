@@ -1,7 +1,7 @@
 class Solution:
     def minFallingPathSum(self, matrix: List[List[int]]) -> int:
         n = len(matrix)
-        # BOTTOM-UP:
+        # TABULATION:
         dp = [[0]*(n+2) for _ in range(n+1)]
 
         for i in range(n):
@@ -17,7 +17,7 @@ class Solution:
         return min(dp[0])
 
 
-        # TOP-DOWN:
+        # MEMOIZATION:
         # memo = {}
         # for i in range(-1,n):
         #     memo[i] = {}
