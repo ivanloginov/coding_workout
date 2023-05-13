@@ -1,7 +1,7 @@
 class Solution:
     def maxProfit(self, prices: List[int], fee: int) -> int:
         n = len(prices)
-        # BOTTOM-UP
+        # TABULATION
         dp = {}
         dp[0] = {0:0,1:0}
         dp[1] = dp[0]
@@ -16,7 +16,7 @@ class Solution:
                 
         return dp[0][1]
 
-        # TOP-DOWN
+        # MEMOIZATION
         # memo = {}
         # for i in range(n):
         #     memo[i] = {}

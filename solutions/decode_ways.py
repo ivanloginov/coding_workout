@@ -1,6 +1,6 @@
 class Solution:
     def numDecodings(self, s: str) -> int:
-        # BOTTOM-UP:
+        # TABULATION:
         n = len(s)
         tmp = [1,1]
         result = 0
@@ -16,7 +16,7 @@ class Solution:
 
         return result
 
-        # TOP-DOWN:
+        # MEMOIZATION:
         # memo = {}
         # n = len(s)
         # def dp(ind):
