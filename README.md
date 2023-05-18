@@ -7,6 +7,7 @@
 #### Problems
 | Problem | Solution | Runtime (ms)| Memory (MB) |
 | --- | --- | --- | --- |
+| 28. [Paint House II](https://leetcode.com/problems/paint-house-ii/description/) | [paint_house_2.py](solutions/paint_house_2.py) | 201 | 16.4 |
 | 27. [Paint House](https://leetcode.com/problems/paint-house/description/) | [paint_house.py](solutions/paint_house.py) | 74 | 16.3 |
 | 26. [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [best_time...fee.py](solutions/best_time_to_buy_and_sell_stock_with_transaction_fee.py) | 905 | 23.7 |
 | 25. [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/) | [minimum_falling_path_sum.py](solutions/minimum_falling_path_sum.py) | 140 | 17 |
