@@ -7,6 +7,7 @@
 #### Problems
 | Problem | Solution | Runtime (ms)| Memory (MB) |
 | --- | --- | --- | --- |
+| 30. [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/) | [count_vowels_permutation.py](solutions/count_vowels_permutation.py) | 1093 | 143.1 |
 | 29. [Paint House III](https://leetcode.com/problems/paint-house-iii/description/) | [paint_house_3.py](solutions/paint_house_3.py) | 2595 | 24.1 |
 | 28. [Paint House II](https://leetcode.com/problems/paint-house-ii/description/) | [paint_house_2.py](solutions/paint_house_2.py) | 201 | 16.4 |
 | 27. [Paint House](https://leetcode.com/problems/paint-house/description/) | [paint_house.py](solutions/paint_house.py) | 74 | 16.3 |
