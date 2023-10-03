@@ -1,4 +1,4 @@
-### Solutions to algorithm problems
+### Set of solutions to algorithm problems
 
 #### Resources
 - [LeetCode](https://leetcode.com/problemset/all/)
