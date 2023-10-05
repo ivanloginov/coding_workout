@@ -7,7 +7,7 @@
 #### Problems
 | Problem | Solution | Runtime (ms)| Memory (MB) |
 | --- | --- | --- | --- |
-| 33. [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | In progress | NA | NA |
+| 33. [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | In progress |  |  |
 | 32. [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/) | [number_of_dice...sum.py](solutions/number_of_dice_rolls_with_target_sum.py) | 517 | 16.4 |
 | 31. [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) | [maximum_length...subarray.py](solutions/maximum_length_of_repeated_subarray.py) | 2425 | 41.6 |
 | 30. [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/) | [count_vowels_permutation.py](solutions/count_vowels_permutation.py) | 1093 | 143.1 |
