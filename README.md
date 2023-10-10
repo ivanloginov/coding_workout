@@ -1,10 +1,10 @@
-### Set of solutions to algorithm problems
+# Set of solutions to algorithm problems
 
-#### Resources
+## Resources
 - [LeetCode](https://leetcode.com/problemset/all/)
 - [Codewars](https://www.codewars.com/kata/)
 
-#### Problems
+## Problems
 | Problem | Solution | Runtime (ms)| Memory (MB) |
 | --- | --- | --- | --- |
 | 33. [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | In progress |  |  |
