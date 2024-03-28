@@ -1,4 +1,4 @@
-# Set of LeetCode problems and solutions
+# Set of problems and solutions from LeetCode
 
 
 | Problem | Solution | Runtime (ms)| Memory (MB) |
