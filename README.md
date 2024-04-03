@@ -1,4 +1,4 @@
-# Set of problems and solutions from LeetCode
+# Set of Dynamic Programming problems and solutions from LeetCode
 
 
 | Problem | Solution | Runtime (ms)| Memory (MB) |
