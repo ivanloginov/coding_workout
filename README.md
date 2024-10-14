@@ -35,5 +35,8 @@
 | 2. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [min_cost_climbing_stairs.py](solutions/min_cost_climbing_stairs.py) | 58 | 13.8 |
 | 1. [House Robber](https://leetcode.com/problems/house-robber/description/) | [house_robber.py](solutions/house_robber.py) | 51 | 13.8 |
 
+## License
+This project is licensed under the MIT License.
+
 
 
