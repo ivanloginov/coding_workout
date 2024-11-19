@@ -23,7 +23,7 @@
 | 14. [Paint Fence](https://leetcode.com/problems/paint-fence/description/) | [paint_fence.py](solutions/paint_fence.py) | 27 | 13.9 |
 | 13. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [best_time...cooldown.py](solutions/best_time_to_buy_and_sell_stock_with_cooldown.py) | 52 | 21.1 |
 | 12. [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | [best_time...stock_4.py](solutions/best_time_to_buy_and_sell_stock_4.py) | 432 | 36 |
-| 11. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [longest...subsequence.py](solutions/longest_increasing_subsequence.py) | 5326 | 14.3 |
+| 11. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [longest...subsequence.py](solutions/longest_increasing_subsequence.py) | 1884 | 16.9 |
 | 10. [Word Break](https://leetcode.com/problems/word-break/description/) | [word_break.py](solutions/word_break.py) | 49 | 14.1 |
 | 9. [Coin Change](https://leetcode.com/problems/coin-change/description/) | [coin_change.py](solutions/coin_change.py) | 2412 | 50.6 |
 | 8. [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/) | [minimum_difficulty...schedule.py](solutions/minimum_difficulty_of_a_job_schedule.py) | 983 | 14.6 |
